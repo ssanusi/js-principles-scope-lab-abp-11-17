@@ -4,7 +4,7 @@ const leastFavoriteCustomer = 'john'
 
 function upperCaseCustomerName(){
   customerName = 'BOB';
-  
+
 }
 
 function setBestCustomer(){
@@ -17,7 +17,7 @@ function overwriteBestCustomer(){
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'saly'
+  //leastFavoriteCustomer = 'saly'
 }
 
 
